@@ -6,7 +6,7 @@
  Check out my portfolio : 
 <br/>
 ## Overview
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bootkorea&hide=jupyter+notebook&layout=compact&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagyu&layout=compact&theme=blue-green)
 
 ## Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
