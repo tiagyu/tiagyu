@@ -2,7 +2,7 @@
 </br><br/>
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Wlecome%20Tiagyu)
 <br/>
- I am interested in Multi-Modala<br/>
+ I am interested in Multi-Modala <br/>
  Check out my portfolio : 
 
 <br/><br/>
