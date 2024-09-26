@@ -4,9 +4,7 @@
 <br/>
  I am interested in Multi-Modala <br/>
  Check out my portfolio : 
-
-<br/><br/>
-
+<br/>
 ## Overview
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bootkorea&hide=jupyter+notebook&layout=compact&theme=blue-green)
 
