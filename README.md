@@ -1,6 +1,6 @@
 ## tiagyu's Github
 </br><br/>
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Wlecome%20Tiagyu)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20Tiagyu)
 <br/>
  I am interested in Multi-Modala <br/>
  Check out my portfolio : 
