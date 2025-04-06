@@ -2,7 +2,6 @@
 </br><br/>
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20Tiagyu)
 <br/>
- I am interested in Multi-Modala <br/>
  Check out my portfolio : 
 <br/>
 ## Overview
@@ -17,9 +16,8 @@
 ## Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=black"/> 
-<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=black"/>
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> </t>
-<img src="https://img.shields.io/badge/SQLD-FAED7D?style=for-the-badge&logo=coveralls&logoColor=black"/>
+
 
 ## Activities
 - KT AIVLE School 5기 <sup>2024-02 * 2024-08
