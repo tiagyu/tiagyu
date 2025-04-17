@@ -20,7 +20,7 @@
 
 
 ## Activities
-- KT AIVLE School 5기 <sup>2024-02 * 2024-08
+
 
 
 ## 📫 Contacts
